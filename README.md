@@ -1,4 +1,4 @@
 # static-html-page
 Simple static html page for testing Amplify static site deployments
 
-triggered time: 5
+pushed 10/23, test codeconneciton change
